@@ -1,4 +1,4 @@
-/* Assignment 4 Question 2
+/* Assignment 4 Question 4
    C program to calculate power of a number using recursion */
 
 
